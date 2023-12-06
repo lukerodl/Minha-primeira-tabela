@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+}
+
+table {
+  width: 100%;
+}
+
+.menu,
+.fooster {
+  height: 60px;
+}
+
+.siderbar,
+.conteudo {
+  height: 400px;
+}
+.siderbar {
+  width: 20%;
+}
